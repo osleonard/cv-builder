@@ -1,0 +1,94 @@
+contact:
+    name: 'Akinmolayan Olushola'
+    email: 'lakinmolayan@gmail.com'
+    page: 'http://www.osleonard.io'
+    github: 'https://github.com/osleonard'
+    linkedin: 'https://www.linkedin.com/in/olushola-akinmolayan-75b93570/'
+    stackoverflow: 'http://stackoverflow.com/users/3088505/osleonard'
+    twitter: 'http://twitter.com/osleonard_'
+
+work:
+    - employer: Lunatech Labs
+      title: Fullstack Engineer
+      location: 'Rotterdam, Netherlands'
+      dates: 'October 2019 till Date'
+      description:
+          - ""
+
+    - employer: "Africa's Talking Limited"
+      title: Lead Product Engineer (USSD)
+      location: 'Lagos, Nigeria'
+      dates: December 2018 - September 2019
+      description:
+          - 'Led innovation around the USSD Product across new and existing markets.'
+          - 'Implemented new features majorly with Scala & Akka.'
+          - 'Fixed Bugs and implemented new features.'
+          - 'Helped with commercials and telco relations.'
+
+    - employer: "Africa's Talking Limited"
+      title: Product Engineer Voice
+      location: 'Nairobi Kenya'
+      dates: March 2018 – December 2018
+      description:
+          - 'Performed Devops activities - Develop, Test and Deploy.'
+          - 'Identified and fixed bugs.'
+          - 'Helped migrating voice product with little to NO test cases to a fully tested product.'
+          - 'Helped document onboarding for new engineers joining the team'
+            
+    - employer: Vascon Solutions Limited
+      title: Solutions Engineer
+      location: 'Lagos, Nigeria'
+      dates: 'November 2015 - March 2018'
+      description:
+          - 'Mentored Junior Staff in software architecture and software development best practices.'
+          - 'Engaged in Architectural Decision, fixed bugs and write x features.'
+          - 'Rewrote the core application logic for the NOGICJQS Application.'
+          - 'Recommended number of Man Days Projects/Features was expected to span'
+          - 'Built Ikeja Electric Recruitment portal that helped moved from a paper-based recruitment process to a fully automated process from applicants signup to final onboarding.'
+          - 'Lead the setup of infrastructure for the NOGICJQS Application, from racking the servers to setting up of the application stacks to configuration load balancers to setting up oracle database and configuring the NETAPP data storage backup.'
+          - 'Independently revamped / migrated existing NOGICJQS from NO Continuous Integration (CI) / Continuous Deployment, powering it with docker and gitlab CI.'
+
+    - employer: Vas Consulting
+      title: Software Engineer Contract
+      location: 'Lagos, Nigeria'
+      dates: 'November 2013 – October 2015'
+      description:
+          - "Engaged in almost all aspects of Software Delivery, from talking to the client's client about user experience to engaging in high level meetings of Project Managers(to provide the Engineer's opinion) to deployment to engaging clients in UAT to writing software, identifying and fixing bugs etc."
+          - 'Integrated the Blackberry Broker with CRM / Postpaid Billing systems and other charging proxies.'
+          - 'Deployment and Testing of Blackberry Broker Application(Spring/J2EE) in Airtel Kenya, Ghana,Tanzania, Uganda, Madagascar, DRC, Sierria Leone, Zambia, and Rwanda.'
+          - 'Provided Bug fixes, enhanced features and added new features in Blackberry Broker(Spring/J2EE) for Airtel Operating Telcos in Africa.'
+          - 'Provided Level 3 support for the Blackberry provisioning platform for Airtel Operating Telcos in Africa.'
+          - 'Co Built Nigerian Oil and Gas Industry Content Joint Qualifcation System (NOGICJQS) application.'
+          - 'Wrote PHP wrapper that integrated the NOGICJQS with BPMN Processmaker.'
+
+    - employer: Vas Consulting
+      title: Software Engineer Contract
+      location: 'Lagos, Nigeria'
+      dates: 'June 2013 – November 2013'
+      description:
+          - "Completed a full migration of Sierra Leone Blackberry subscribers to a rebased platform upon Government policy on currency rebasing from USD to Sierra Leone Leones."
+          - 'Provided Bug fixes, enhanced features and added new features in Blackberry Broker(Spring/J2EE) for Airtel Zambia, Madagascar and Rwanda.'
+          - 'Deployment and Testing of Blackberry Broker Application(Spring/J2EE) in Airtel Kenya, Niger,Gabon, Uganda, Sierra Leone, Zambia and Rwanda.'
+skills:
+    - name: 'Languages'
+      skills:
+          - Scala
+          - Ruby(rusty)
+          - Java(rusty)
+    - name: 'OSes'
+      skills:
+          - '*nix'
+    - name: 'Orchestration'
+      skills:
+          - Ansible
+          - Kubernetes
+          - Docker
+education:
+    - degree: 'Bachelor of Science, Computer and Information Science'
+      name: 'Achievers University Owo'
+      location: 'Ondo, Nigeria'
+      dates: 2014
+    - degree: 'Diploma, Mathematics'
+      name: 'Federal University Of Technology Akure'
+      location: 'Akure, Nigeria'
+      dates: 2012
